@@ -1,1 +1,1 @@
-list current working directory with the user and group IDs numerically
+create a directory in a directory known as tmp
