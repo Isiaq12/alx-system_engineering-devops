@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -u: -f1 /etc/group | sort
+cd -u: -f1 /etc/group
